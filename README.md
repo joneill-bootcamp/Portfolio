@@ -2,6 +2,10 @@
 
 This website will give you some infomration about me, it contains a brief Bio, an image gallery and a contact form
 
+## Find my Portfolio here
+
+https://joneill-bootcamp.github.io/Portfolio/index.html
+
 ## Table of Contents
 
 - [Technology Used](#Technology)
@@ -15,5 +19,5 @@ This website will give you some infomration about me, it contains a brief Bio, a
 
 ## Team
 
-John O'Neill 
+John O'Neill
 (and of course.. Pippy!)
